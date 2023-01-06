@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import './App.css'
+import Header from './components/Header'
+import { Routes, Route } from 'react-router-dom'
+import MainPage from './pages/MainPage'
+import CollectionPage from './pages/CollectionPage'
+import DogsPage from './pages/DogsPage'
+import DogsCollectionPage from './pages/DogsCollectionPage'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='bg-pink-100 min-h-screen max-h-full pb-5'>
+      <div className='sticky top-0'>
+        <Header />
+      </div>
+      <div>
+        <Routes>
+          <Route path='/' element={<MainPage />} />
+          <Route path='/collection' element={<CollectionPage />} />
+          <Route path='/dogsPage' element={<DogsPage />} />
+          <Route path='/dogsCollection' element={<DogsCollectionPage />} />
+        </Routes>
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

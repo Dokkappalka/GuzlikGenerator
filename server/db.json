@@ -1,0 +1,166 @@
+{
+  "dogs": [
+    {
+      "image": "https://random.dog/cdfe24b3-8ba8-44b1-a5f4-4174936dabb6.jpg",
+      "id": 3
+    },
+    {
+      "image": "https://random.dog/ee9150b2-300a-4f1b-83be-d4d16b6223b1.jpg",
+      "id": 4
+    }
+  ],
+  "cats": [
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/anigif_enhanced-buzz-19645-1381845207-5.gif",
+      "id": 10
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/095_-_2vn4jFo.gif",
+      "id": 11
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/fNf4qJZ.jpg",
+      "id": 12
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/002_-_htpcy9A.gif",
+      "id": 13
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/WTL99.jpg",
+      "id": 14
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/image1-4.jpg",
+      "id": 15
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/MAGRx.jpg",
+      "id": 16
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/009_-_fgjbeH3.gif",
+      "id": 17
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/sm0l.jpg",
+      "id": 18
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/076_-_ESQXAkp.gif",
+      "id": 19
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/1qisv.jpg",
+      "id": 22
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/023_-_rBQBXmM.gif",
+      "id": 23
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/LH9ZI.jpg",
+      "id": 24
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/LQrMm.jpg",
+      "id": 25
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/sXd20.jpg",
+      "id": 26
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/0R2BX.jpg",
+      "id": 30
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/AxoH5.jpg",
+      "id": 31
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/EJmsm.jpg",
+      "id": 32
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/43878072_9b440a24af_z.jpg",
+      "id": 33
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/GhbwZ.gif",
+      "id": 34
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/392616_10151525292071211_2030227685_n.jpg",
+      "id": 35
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/iVpaM.jpg",
+      "id": 36
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/Tabby-Kittens-1.jpeg",
+      "id": 38
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/xj5nfqp_d.jpg",
+      "id": 39
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/kitten1325.jpg",
+      "id": 40
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/phelSHG.jpg",
+      "id": 41
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/F5iJY.jpg",
+      "id": 42
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/CwoPy.jpg",
+      "id": 43
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/17202963_1446865762031424_2924148055111697325_n.jpg",
+      "id": 45
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/6138491962_2a6d192919_z1.jpg",
+      "id": 47
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/S71Qfig.jpg",
+      "id": 48
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/hRR2I.jpg",
+      "id": 49
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/u81F8.jpg",
+      "id": 50
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/img_20170919_162251.jpg",
+      "id": 51
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/Dyog3.jpg",
+      "id": 52
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/dDVns.gif",
+      "id": 53
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/006_-_zXThjoa.gif",
+      "id": 54
+    },
+    {
+      "image": "https://purr.objects-us-east-1.dream.io/i/bI8D6.jpg",
+      "id": 55
+    }
+  ]
+}
